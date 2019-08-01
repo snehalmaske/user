@@ -1,8 +1,8 @@
 
 {
 	id:0,
-	name: "Rachel Green" ,
-	username: "Rachel",
-	email: "rachelgreen@gmail.com",
-	image:"https://usercontent1.hubstatic.com/14149372_f1024.jpg"
+	"name": "Rachel Green" ,
+	"username": "Rachel",
+	"email": "rachelgreen@gmail.com",
+	"image":"https://usercontent1.hubstatic.com/14149372_f1024.jpg"
 }
